@@ -76,7 +76,7 @@ import RotatingCardBackWarning from "../../../examples/cards/rotatingCards/Rotat
               description="Temukan publikasi statistik BPS berdasarkan kata kunci topik data sesuai kebutuhan Anda"
               :action="[
                 {
-                  route: 'https://jatim.beta.bps.go.id/id/publication',
+                  route: 'https://jatim.bps.go.id/id/publication',
                   label: 'Baca Publikasi',
                 },
               ]"
